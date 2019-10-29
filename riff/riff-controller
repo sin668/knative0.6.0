@@ -1,0 +1,3 @@
+#代理gcr.io上的镜像
+
+FROM gcr.io/projectriff/system/github.com/projectriff/system/cmd/controller@sha256:4996d4738d5f42ab2b47b52a94f14c59907f3210a18f040d87e19bc6d62e2ce9
