@@ -1,3 +1,3 @@
 #代理gcr.io上的镜像
 
-FROM gcr.io/knative-releases/github.com/knative/serving/cmd/controller@sha256:8f402eab0ada038d3de2ad753a40f9f441715d08058d890537146bb0aba11c8e
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:d903707ec8c20f7a0a36852a0cf70062fbd23015d820f4ef085855de02e293ec
