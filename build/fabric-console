@@ -1,0 +1,1 @@
+FROM ghcr.io/hyperledger-labs/fabric-console:latest
