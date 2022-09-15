@@ -1,0 +1,1 @@
+FROM quay.io/openshift-release-dev/ocp-v4.0-art-dev@sha256:7e9bd499d370aa669f301a098626558fe5736820cf066223f6bb1e5a632afe9b
